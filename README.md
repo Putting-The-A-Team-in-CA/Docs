@@ -20,3 +20,29 @@ Patient end-users will be able to view doctor availability, make and manage appo
 ### Target Audience
 
 The app is intended for medical practices, as a simple way to to deliver online presence and a simple booking experience for patients.
+
+### Tech Stack
+
+Our app is built on the following technologies:
+
+FRONT-END
+- React
+- <INSERT CSS FRAMEWORK HERE>
+- HTML
+- CSS
+
+BACK-END
+- Express
+- Node.js
+- MongoDB
+- Mongoose
+
+## Application Architecture Diagram
+
+## Dataflow Diagram 
+
+## User Stories
+  
+## Wireframes
+
+## Kanban Screenshots
