@@ -45,6 +45,8 @@ THIRD-PARTY SERVICES
 
 ## Application Architecture Diagram
 
+![Application Architecture Diagram for the product](../CameronTape_T3A2-A/docs/AAD%20v2.2.png)
+
 ## Dataflow Diagram 
 
 ## User Stories
