@@ -1,7 +1,15 @@
+# Medical Clinic Booking App
 
-This repo contains the code and other assets used to build our MERN-stack application.
+---
 
-## General Description + Purpose
+## Links
+
+- [Deployed app]()
+- [Source code]()
+
+---
+
+## General Description and Purpose
 
 ### Purpose
 Our app connects a medical practice with its patients. It provides an "all-in-one" solution to booking and managing appointments, viewing and selecting practice services, and accessing notes and resources from an appointment.
@@ -25,29 +33,39 @@ The app is intended for medical practices, as a simple way to to deliver online 
 
 Our app is built on the following technologies:
 
-FRONT-END
+#### Front End
 - CSS
 - HTML
 - React
 - <INSERT CSS FRAMEWORK HERE>
 
-BACK-END
+#### Back End
 - Express
 - MongoDB
 - Mongoose
 - Node.js
 
-THIRD-PARTY SERVICES
+#### Third-party Services
 - Cloudinary
 - Heroku
 - Netlify
-- Mongo Atlas
+- MongoDB Atlas
+
+---
 
 ## Application Architecture Diagram
 
 ![Application Architecture Diagram for the product](./docs/AAD%20v2.2.png)
 
+---
+
 ## Dataflow Diagram 
+
+---
+
+## UML Sequence Diagram
+
+---
 
 ## User Stories
 
@@ -66,7 +84,13 @@ THIRD-PARTY SERVICES
 - As a practice manager, I want to show the availability of our doctors, so patients know when they can make appointments.
 - As a practice manager, I want to be able to view and manage bookings easily, so I can organise the day's work.
 - As a practice manager, I want combine our online presence with an easy booking system, so patients can find everything they need in one place.
+
+---
   
 ## Wireframes
 
+---
+
 ## Kanban Screenshots
+
+---
