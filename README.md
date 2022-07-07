@@ -72,21 +72,34 @@ Our app is built on the following technologies:
 
 ## User Stories
 
-- As a patient, I want to be able to book and manage appointments online, to save hassle when I need to see a doctor.
-- As a patient, I want to create/edit an account with my details to make bookings easier.
-- As a patient, I want to update or delete my account and information, so I can feel in control of my personal information.
-- As a patient, I want see a doctor of my choice, so I feel more comfortable with my appointment.
+| User    | Action                                                      | Result                                                                               |
+|---------|-------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Patient | Create an account                                           | So I can book doctors appointments online                                            |
+| Patient | Sign in to my account                                       | So I can access services in the app                                                  |
+| Patient | Add my personal details to my account                       | So I can identify provide the required information for my account                    |
+| Patient | Edit my personal details on my account                      | So I can provide the clinic with up-to-date information and control my personal info |
+| Patient | Book an appointment online                                  | So I don't have to call up and book                                                  |
+| Patient | Choose a doctor for my appointment                          | So I can feel more comfortable about which doctor I am seeing                        |
+| Patient | Choose a date and time for my appointment                   | So I can fit the appointment into my busy schedule                                   |
+| Patient | Add a comment when booking an appointment                   | So I can provide the doctor with any extra information                               |
+| Patient | See the details of a booking                                | So I can confirm the booking details                                                 |
+| Patient | View all my current bookings                                | So I can see how many bookings I have                                                |
+| Patient | View all my previous bookings                               | So I can see details from past appointments                                          |
+| Patient | Access any medical reports/scans from previous appointments | So I can download them to use for other purposes                                     |
+| Patient | Make changes to a booking                                   | So I can manage bookings around any changes in my schedule                           |
+| Patient | Get notified of any changes to my bookings                  | So I can reorganise my schedule                                                      |
+| Patient | Cancel a booking                                            | So I don't get charged a no-show fee                                                 |
+| Patient | Delete my account                                           | So I can remove my details if I no longer use this clinic                            |
+| Admin   | View a patients booking details                             | So doctors can prepare for their appointments                                        |
+| Admin   | View all current bookings for each doctor                   | So I can plan the week                                                               |
+| Admin   | Edit a patients booking                                     | So I can adjust appointments if any changes arise                                    |
+| Admin   | Delete a patients booking                                   | So I can deal with cancellations and other changes                                   |
+| Admin   | Provide doctor availabilities                               | So patients know when they can book appointments                                     |
+| Admin   | Get notified when a patients booking changes                | So the doctor can adjust his schedule/plans as needed                                |
+| Admin   | Combine our online presence with an easy booking system     | So patients can find everything they need in one place                               |
+| Admin   | Advertise about the services we provide                     | So potential patients understand what we do                                          |
+| Admin   | Provide a bio for all the doctors                           | So patients understand their doctors backgrounds a little                            |
 
-- As a doctor, I want to be able to create a profile with information about myself, to introduce myself to potential patients.
-- As a doctor, I want to be able to provide and manage information about my availability, so patients know when they can see me.
-- As a doctor, I want to be able to view and manage my appointments, so I can be prepared for my patients.
-
-- As a doctor, I want to be able to view and manage my appointments, so I can be prepared for my patients
-
-- As a practice manager, I want to show the the clinic services, so patients can find the services they need.
-- As a practice manager, I want to show the availability of our doctors, so patients know when they can make appointments.
-- As a practice manager, I want to be able to view and manage bookings easily, so I can organise the day's work.
-- As a practice manager, I want combine our online presence with an easy booking system, so patients can find everything they need in one place.
 
 ---
   
