@@ -55,17 +55,19 @@ Our app is built on the following technologies:
 
 ## Application Architecture Diagram
 
-![Application Architecture Diagram for the product](./docs/AAD%20v2.2.png)
+![Application Architecture Diagram for the product](./docs/aad.png)
 
 ---
 
 ## Dataflow Diagram 
 
-![Dataflow Diagram for the product](./docs/MedicalAppointmentSystem-DataFlowDiagram.png)
-![Sequence Diagram for the product](./docs/sequenceDiagram.png)
+![Dataflow Diagram for the product](./docs/dfd.png)
 
+---
 
 ## UML Sequence Diagram
+
+![Sequence Diagram for the product](./docs/sequence-diagram.png)
 
 ---
 
