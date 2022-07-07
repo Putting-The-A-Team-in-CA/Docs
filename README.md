@@ -30,10 +30,10 @@ The app is intended for medical practices, as a simple way to to deliver online 
 Our app is built on the following technologies:
 
 #### Front End
-- antd UI Library
 - CSS
 - HTML
 - React
+- Ant Design
 - Tailwind
 
 #### Back End
