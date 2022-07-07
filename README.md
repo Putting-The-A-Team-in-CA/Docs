@@ -61,7 +61,9 @@ Our app is built on the following technologies:
 
 ## Dataflow Diagram 
 
----
+![Dataflow Diagram for the product](./docs/MedicalAppointmentSystem-DataFlowDiagram.png)
+![Sequence Diagram for the product](./docs/sequenceDiagram.png)
+
 
 ## UML Sequence Diagram
 
