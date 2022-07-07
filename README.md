@@ -1,29 +1,25 @@
 # Medical Clinic Booking App
 
----
-
-## Links
-
-- [Deployed app]()
-- [Source code]()
-
----
-
 ## General Description and Purpose
+
+The repo contains the source code and other assets for our MERN-stack application. Links to the hosted version of the application will be included here when available.
 
 ### Purpose
 Our app connects a medical practice with its patients. It provides an "all-in-one" solution to booking and managing appointments, viewing and selecting practice services, and accessing notes and resources from an appointment.
 
 For medical practices, this will allow a platform to advertise available services, track appointments, and streamline the booking process.
 
-For doctors, this will allow the managing and tracking of appointments, and as easy way to update availability throughout the day/wekk.
+For doctors, this will allow the managing and tracking of appointments, and as easy way to update availability throughout the day/week.
 
 For patients, the app presents a simple way to book appointments and select from various medical services.
 
 ### Features
-The app will include information about the services provided by the practice - general consultations, specific assessments and treatments, care plan consultations, etc. End-users from the practice will be able to quickly check and manage appointments, manage availability, access information for the patient who made the appointment, and attach any additional files or resources.
+
+The app will include information about the services provided by the practice: general consultations, specific assessments and treatments, care plan consultations, etc. Contact information and other details for the practice can also be included, to expand online presence. End-users from the practice will be able to quickly check and manage appointment, and set and manage availability of their practitioners.
 
 Patient end-users will be able to view doctor availability, make and manage appointments, and access any included information for upcoming or past appointments. Patients will also be able to manage personal information provided to the practice through their user accounts, and close an account at any time.
+
+Secure login and sign-up will be provided through a blend of in-house configuration and third-party services.
 
 ### Target Audience
 
@@ -34,18 +30,21 @@ The app is intended for medical practices, as a simple way to to deliver online 
 Our app is built on the following technologies:
 
 #### Front End
+- antd UI Library
 - CSS
 - HTML
 - React
-- <INSERT CSS FRAMEWORK HERE>
+- Tailwind
 
 #### Back End
 - Express
+- JWT
 - MongoDB
 - Mongoose
 - Node.js
 
 #### Third-party Services
+- auth0
 - Cloudinary
 - Heroku
 - Netlify
