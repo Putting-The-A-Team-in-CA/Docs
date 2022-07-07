@@ -97,4 +97,13 @@ Our app is built on the following technologies:
 
 ## Kanban Screenshots
 
----
+![Image of project Kanban - 01/07/2022](docs/Kanban-2022-07-01.png)
+
+![Image of project Kanban - 02/07/2022](docs/Kanban-2022-07-02.png)
+
+![Image of project Kanban - 04/07/2022](docs/Kanban-2022-07-04.png)
+
+![Image of project Kanban - 06/07/2022](docs/Kanban-2022-07-06.png)
+
+![Image of project Kanban - 07/07/2022](docs/Kanban-2022-07-07.png)
+
