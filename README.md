@@ -5,19 +5,19 @@
 The repo contains the source code and other assets for our MERN-stack application. Links to the hosted version of the application will be included here when available.
 
 ### Purpose
-Our app connects a medical practice with its patients. It provides an "all-in-one" solution to booking and managing appointments, viewing and selecting practice services, and accessing notes and resources from an appointment.
+Our app connects a medical practice with its patients. It provides an "all-in-one" solution to booking and managing appointments, viewing and selecting practice services, and accessing notes and resources from an appointment. The app caters for three types of user:
 
-For medical practices, this will allow a platform to advertise available services, track appointments, and streamline the booking process.
+- **Medical Clinic Managers:** The app will allow clinic managers to platform to advertise available services, track appointments, and streamline the booking process.
 
-For doctors, this will allow the managing and tracking of appointments, and as easy way to update availability throughout the day/week.
+- **Doctors:** The app allows the management and tracking of appointments, and provides an easy way to update availability throughout the day/week.
 
-For patients, the app presents a simple way to book appointments and select from various medical services.
+- **Patients:** The app presents a simple way to book appointments and select from various medical services.
 
 ### Features
 
-The app will include information about the services provided by the practice: general consultations, specific assessments and treatments, care plan consultations, etc. Contact information and other details for the practice can also be included, to expand online presence. End-users from the practice will be able to quickly check and manage appointment, and set and manage availability of their practitioners.
+The website section of the app allows practices to advertise their services (general consultations, care plan consultations, etc) as well as provide information about their doctors. Contact information and other details for the practice can also be included, to expand online presence. The booking section of the app allows end-users from the practice to quickly check and manage appointments, and set/manage availability of their practitioners.
 
-Patient end-users will be able to view doctor availability, make and manage appointments, and access any included information for upcoming or past appointments. Patients will also be able to manage personal information provided to the practice through their user accounts, and close an account at any time.
+Patient end-users are able to sign up for and account and login. After this, they can view doctor availability, make and manage appointments, and access any included information for upcoming or past appointments. Patients will also be able to manage personal information provided to the practice through their user accounts, and close an account at any time.
 
 Secure login and sign-up will be provided through a blend of in-house configuration and third-party services.
 
