@@ -44,8 +44,6 @@ Our app is built on the following technologies:
 - Node.js
 
 #### Third-party Services
-- auth0
-- Cloudinary
 - Heroku
 - Netlify
 - MongoDB Atlas
