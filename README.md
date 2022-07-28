@@ -111,6 +111,16 @@ Our app is built on the following technologies:
 
 ---
 
+## Testing
+
+This app was tested using both automated and manual testing.
+
+Automated unit and integration tests were written extensively for the back-end and for key front-end features.
+
+A suite of manual user tests were performed on both development and deployed versions of the app. Documentation for these tests can be seen [here](https://docs.google.com/spreadsheets/d/1JszM7IDBI0lIma2_TuKwoHhBxzvCLvAZxbA28Op6RDk/edit?usp=sharing)
+
+---
+
 ## Project Management
 
 The management of this project involved several strategies and tools. A Kanban board was maintained throughout the project to track progress, supported by daily stand-ups amongst team members. Additionally, regular meetings were held both in a combination of text-based, audio, and video formats.
