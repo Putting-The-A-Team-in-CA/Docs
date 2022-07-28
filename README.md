@@ -72,33 +72,33 @@ Our app is built on the following technologies:
 
 ## User Stories
 
-| User    | Action                                                      | Result                                                                               |
-|---------|-------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| Patient | Create an account                                           | So I can securely and conveniently book appointments                                           |
-| Patient | Sign in to my account                                       | So I can access services in the app                                                  |
-| Patient | Add my personal details to my account                       | So I can save time when booking with my doctor                   |
+| User    | Action                                                      | Result                                                                                      |
+| ------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Patient | Create an account                                           | So I can securely and conveniently book appointments                                        |
+| Patient | Sign in to my account                                       | So I can access services in the app                                                         |
+| Patient | Add my personal details to my account                       | So I can save time when booking with my doctor                                              |
 | Patient | Edit my personal details on my account                      | So I can provide the clinic with up-to-date information and control my personal information |
-| Patient | Book an appointment online                                  | So I can book a doctor conveniently and easily                                                  |
-| Patient | Choose a doctor for my appointment                          | So I can feel more comfortable about which doctor I am seeing                        |
-| Patient | Choose a date and time for my appointment                   | So I can fit the appointment into my busy schedule                                   |
-| Patient | Add a comment when booking an appointment                   | So I can provide the doctor with any extra information                               |
-| Patient | See the details of a booking                                | So I can confirm the booking details                                                 |
-| Patient | View all my current bookings                                | So I can see how many bookings I have                                                |
-| Patient | View all my previous bookings                               | So I can see details from past appointments                                          |
-| Patient | Access any medical reports/scans from previous appointments | So I can download them to use for other purposes                                     |
-| Patient | Make changes to a booking                                   | So I can manage bookings around any changes in my schedule                           |
-| Patient | Get notified of any changes to my bookings                  | So I can be properly prepared and organise my time                                                     |
-| Patient | Cancel a booking                                            | So I can adapt to my changing needs                                                 |
-| Patient | Delete my account                                           | So I can control my personal information and reduce my online footprint                           |
-| Admin   | View a patients booking details                             | So doctors can prepare for their appointments                                        |
-| Admin   | View all current bookings for each doctor                   | So I can plan the week                                                               |
-| Admin   | Edit a patients booking                                     | So I can adjust appointments if any changes arise                                    |
-| Admin   | Delete a patients booking                                   | So I can deal with cancellations and other changes                                   |
-| Admin   | Provide doctor availabilities                               | So patients know when they can book appointments                                     |
-| Admin   | Get notified when a patients booking changes                | So doctors can adjust their schedule/plans as needed                                |
-| Admin   | Combine our online presence with an easy booking system     | So patients can find everything they need in one place                               |
-| Admin   | Advertise about the services we provide                     | So potential patients understand what we do                                          |
-| Admin   | Provide a bio for all the doctors                           | So patients can choose a doctor they're comfortable with                           |
+| Patient | Book an appointment online                                  | So I can book a doctor conveniently and easily                                              |
+| Patient | Choose a doctor for my appointment                          | So I can feel more comfortable about which doctor I am seeing                               |
+| Patient | Choose a date and time for my appointment                   | So I can fit the appointment into my busy schedule                                          |
+| Patient | Add a comment when booking an appointment                   | So I can provide the doctor with any extra information                                      |
+| Patient | See the details of a booking                                | So I can confirm the booking details                                                        |
+| Patient | View all my current bookings                                | So I can see how many bookings I have                                                       |
+| Patient | View all my previous bookings                               | So I can see details from past appointments                                                 |
+| Patient | Access any medical reports/scans from previous appointments | So I can download them to use for other purposes                                            |
+| Patient | Make changes to a booking                                   | So I can manage bookings around any changes in my schedule                                  |
+| Patient | Get notified of any changes to my bookings                  | So I can be properly prepared and organise my time                                          |
+| Patient | Cancel a booking                                            | So I can adapt to my changing needs                                                         |
+| Patient | Delete my account                                           | So I can control my personal information and reduce my online footprint                     |
+| Admin   | View a patients booking details                             | So doctors can prepare for their appointments                                               |
+| Admin   | View all current bookings for each doctor                   | So I can plan the week                                                                      |
+| Admin   | Edit a patients booking                                     | So I can adjust appointments if any changes arise                                           |
+| Admin   | Delete a patients booking                                   | So I can deal with cancellations and other changes                                          |
+| Admin   | Provide doctor availabilities                               | So patients know when they can book appointments                                            |
+| Admin   | Get notified when a patients booking changes                | So doctors can adjust their schedule/plans as needed                                        |
+| Admin   | Combine our online presence with an easy booking system     | So patients can find everything they need in one place                                      |
+| Admin   | Advertise about the services we provide                     | So potential patients understand what we do                                                 |
+| Admin   | Provide a bio for all the doctors                           | So patients can choose a doctor they're comfortable with                                    |
 
 
 ---
@@ -113,15 +113,44 @@ Our app is built on the following technologies:
 
 ---
 
-## Kanban Screenshots
+## Project Management
 
-![Image of project Kanban - 01/07/2022](docs/kanban-screenshots/Kanban-2022-07-01.png)
+The management of this project involved several strategies and tools. A Kanban board was maintained throughout the project to track progress, supported by daily stand-ups amongst team members. Additionally, regular meetings were held both in a combination of text-based, audio, and video formats.
 
-![Image of project Kanban - 02/07/2022](docs/kanban-screenshots/Kanban-2022-07-02.png)
+The project faced significant challenges to proper planning and organisation through a series of unexpected personal emergencies experienced by one of the team members. This significantly impacted the capacity of the team through much of development.
 
-![Image of project Kanban - 04/07/2022](docs/kanban-screenshots/Kanban-2022-07-04.png)
+Despite this, development continued in a relatively orderly fashion, with daily stand-ups continuing to report progress on different features. As more complex features were tackled, requiring integration of front- and back-end components, daily collaborative development sessions became the norm to allow team members to work together and troubleshoot issues.
 
-![Image of project Kanban - 06/07/2022](docs/kanban-screenshots/Kanban-2022-07-06.png)
+As development progressed, it was necessary to adjust the scope of the project, as initial plans proved to be overly ambitious given the limited time allowed for the project, as well as the challenges faced during this period.
 
-![Image of project Kanban - 07/07/2022](docs/kanban-screenshots/Kanban-2022-07-07.png)
+Tasks were divided amongst the group based on the preferences of individual team-members, allowing each team member to work on aspects of the project of particular interest to them. Initial roles broadly covered front- and back-end development, with a third developer offering support for both. Once the basic framework of the product had been developed, tasks became increasingly granular as focus shifted to specific features (e.g., authorisation, setting availability, managing appointments, etc.), integration, deployment, and testing.
 
+Internal documentation was also maintained throughout the project recording essential information about the app, assigned tasks, and minutes from team meetings.
+
+![Image of project documentation showing minutes of early meetings](docs/minutes.png)
+
+### Kanban Screenshots
+
+![Image of project Kanban - 01](docs/kanban-screenshots/Kanban-1.png)
+
+![Image of project Kanban - 02](docs/kanban-screenshots/Kanban-2.png)
+
+![Image of project Kanban - 03](docs/kanban-screenshots/Kanban-3.png)
+
+![Image of project Kanban - 04](docs/kanban-screenshots/Kanban-4.png)
+
+![Image of project Kanban - 05](docs/kanban-screenshots/Kanban-5.png)
+
+![Image of project Kanban - 06](docs/kanban-screenshots/Kanban-6.png)
+
+![Image of project Kanban - 07](docs/kanban-screenshots/Kanban-7.png)
+
+![Image of project Kanban - 08](docs/kanban-screenshots/Kanban-8.png)
+
+![Image of project Kanban - 09](docs/kanban-screenshots/Kanban-9.png)
+
+![Image of project Kanban - 10](docs/kanban-screenshots/Kanban-10.png)
+
+![Image of project Kanban - 11](docs/kanban-screenshots/Kanban-11.png)
+
+![Image of project Kanban - 12](docs/kanban-screenshots/Kanban-12.png)
