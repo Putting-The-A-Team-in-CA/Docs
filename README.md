@@ -2,7 +2,7 @@
 
 ## General Description and Purpose
 
-The repo contains the source code and other assets for our MERN-stack application. Links to the hosted version of the application will be included here when available.
+The repo contains the source code and other assets for our MERN-stack application. The deployed version of the app can be found [here](https://clinic-concierge.netlify.app/)
 
 ### Purpose
 Our app connects a medical practice with its patients. It provides an "all-in-one" solution to booking and managing appointments, viewing and selecting practice services, and accessing notes and resources from an appointment. The app caters for three types of user:
