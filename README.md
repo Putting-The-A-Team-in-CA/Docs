@@ -50,6 +50,25 @@ Our app is built on the following technologies:
 
 ---
 
+### Libraries
+
+This project made use of a range of libraries (some mentioned above) for various functions and features.
+
+#### Front-End
+In the front-end, the most obvious of these is [React](https://reactjs.org/), a JavaScript library for building interactive user interfaces. [Ant Design](https://ant.design/) component library was also used in developing the user interface, for form and input components, buttons, messages and alerts, date and time pickers, etc. [React Hot-Toast](https://react-hot-toast.com/) was also used for messaging and alerts in some areas of the app.
+
+[Axios](https://axios-http.com/) is used to handle many HTTP requests, API calls, and queries; alongside [cross-fetch](https://www.npmjs.com/package/cross-fetch).
+
+[Tailwind](https://tailwindcss.com/) was used extensively for styling, and [Vite](https://vitejs.dev/) for scaffolding/app creation.
+
+#### Testing
+
+For testing, [Vitest](https://vitest.dev/) was used with [React Testing Library](https://testing-library.com/)
+, [JSDOM](https://github.com/jsdom/jsdom). [Node Fetch](https://www.npmjs.com/package/node-fetch) was used to allow for `fetch` calls, and [MSW](https://mswjs.io/) to facilitate API mocking.
+
+#### Back-End
+
+
 ## Application Architecture Diagram
 
 ![Application Architecture Diagram for the product](./docs/aad.png)
