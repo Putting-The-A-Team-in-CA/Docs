@@ -68,6 +68,7 @@ For testing, [Vitest](https://vitest.dev/) was used with [React Testing Library]
 
 #### Back-End
 
+---
 
 ## Application Architecture Diagram
 
