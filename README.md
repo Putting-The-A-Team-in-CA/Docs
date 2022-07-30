@@ -55,21 +55,40 @@ Our app is built on the following technologies:
 This project made use of a range of libraries (some mentioned above) for various functions and features.
 
 #### Front-End
-In the front-end, the most obvious of these is [React](https://reactjs.org/), a JavaScript library for building interactive user interfaces. [Ant Design](https://ant.design/) component library was also used in developing the user interface, for form and input components, buttons, messages and alerts, date and time pickers, etc. [React Hot-Toast](https://react-hot-toast.com/) was also used for messaging and alerts in some areas of the app.
+Following libraries are used:
+- [React](https://reactjs.org/): a JavaScript library for building interactive user interfaces.
+- [Ant Design](https://ant.design/): component library was also used in developing the user interface, for form and input components, buttons, messages and alerts, date and time pickers, etc. 
+- [React Hot-Toast](https://react-hot-toast.com/): was also used for messaging and alerts in some areas of the app.
+- [Axios](https://axios-http.com/): is used to handle many HTTP requests, API calls, and queries
+- [cross-fetch](https://www.npmjs.com/package/cross-fetch): used for HTTP requests to backend services
+- [Tailwind](https://tailwindcss.com/): was used extensively for styling
+- [Vite](https://vitejs.dev/): for scaffolding/app creation.
 
-[Axios](https://axios-http.com/) is used to handle many HTTP requests, API calls, and queries; alongside [cross-fetch](https://www.npmjs.com/package/cross-fetch).
-
-[Tailwind](https://tailwindcss.com/) was used extensively for styling, and [Vite](https://vitejs.dev/) for scaffolding/app creation.
-
-#### Testing
-
-For testing, [Vitest](https://vitest.dev/) was used with [React Testing Library](https://testing-library.com/)
-, [JSDOM](https://github.com/jsdom/jsdom). [Node Fetch](https://www.npmjs.com/package/node-fetch) was used to allow for `fetch` calls, and [MSW](https://mswjs.io/) to facilitate API mocking.
+#### Front-End Testing
+Following libraries are used:
+- [Vitest](https://vitest.dev/): was used testing framework
+- [React Testing Library](https://testing-library.com/): for UI component testing
+- [JSDOM](https://github.com/jsdom/jsdom): for emulating web browsers during unit and integration testing
+- [Node Fetch](https://www.npmjs.com/package/node-fetch): was used to allow for `fetch` calls
+- [MSW](https://mswjs.io/): to facilitate API mocking for integration testing
 
 #### Back-End
+- [bcrypt.js](https://github.com/dcodeIO/bcrypt.js#readme): used for encrypting/decrypting the passwords saved in database.
+- [cors](https://github.com/expressjs/cors#readme): used for middleware in the express app
+- [dotenv](https://github.com/motdotla/dotenv#readme): storing environment configuration
+- [Express](http://expressjs.com/): as the web framework for building the backend app
+- [http-status-codes](https://github.com/prettymuchbryce/http-status-codes#readme): for HTTP status codes enumeration for API request's response.
+- [Joi](https://github.com/sideway/joi#readme): for validating the API request body
+- [Joi password complexity](https://github.com/kamronbatman/joi-password-complexity#readme): for validating that password in the request body meets the required criteria
+- [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken#readme): used for handling JWT tokens used for authentication
+- [Mongoose](https://mongoosejs.com/): as object modeling tool which works with MongoDB.
 
----
-
+#### Back-End Testing
+Following libraries are used:
+- [Jest](https://jestjs.io/): as the testing framework for unit and integration tests.
+- [Supertest](https://github.com/visionmedia/supertest#readme): for HTTP assertions for API request.
+- [Nodemon](https://nodemon.io/): for monitoring the changes in project and re-running or re-deploying the application in local.
+  
 ## Application Architecture Diagram
 
 ![Application Architecture Diagram for the product](./docs/aad.png)
